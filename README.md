@@ -7,4 +7,4 @@ This code is connected to the [DotNetCoreFromGitHubOnAppService Team Project](ht
 
 This code was copied from the [DotNetCoreOnAppService Team Project](https://dev.azure.com/daveburnisonms/_git/DotNetCoreFromGitHubOnAppService) on 4/15/2019 by Dave Burnison.
 
-change on 10/4
+change on 10/4, which is CONNNNNVVVVOOOOOYYYY DAY!
